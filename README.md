@@ -1,3 +1,2 @@
 # ananthus
-haiiiiiiii
-halloooooo
+first project
